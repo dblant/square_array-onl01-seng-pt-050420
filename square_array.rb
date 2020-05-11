@@ -3,9 +3,10 @@ def square_array(array)
   numbers.each do |number|
     puts "#{number**2}"
   end
-  squared_numbers = [1, ]
+  
   
   
   
   
 end
+
