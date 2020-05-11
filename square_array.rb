@@ -6,9 +6,6 @@ def square_array(array)
     puts "#{numbers**2}"
   end
     
-    
-    
-  square_array(numbers)
   
 
     
