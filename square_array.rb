@@ -6,7 +6,7 @@ numbers.each do |numbers|
 
 end
 
-square_array([1,])
+square_array([1,2,3])
 
 
     
