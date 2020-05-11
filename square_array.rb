@@ -6,6 +6,7 @@ numbers.each do |numbers|
 
 end
 
+square_array("numbers" )
 
 
     
