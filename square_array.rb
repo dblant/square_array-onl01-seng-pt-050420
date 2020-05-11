@@ -4,7 +4,7 @@ def square_array(array)
     puts "#{number**2}"
   end
   
-  numbers = "#{array}"
+  
   
   
   
@@ -12,4 +12,4 @@ def square_array(array)
   
 end
 
-square_array("numbers")
+
