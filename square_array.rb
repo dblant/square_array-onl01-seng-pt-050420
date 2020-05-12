@@ -5,7 +5,7 @@ numbers.each do |numbers|
   puts "#{numbers**2}"
 end
 
-squared_array([1,2,3])
+square_array([1,2,3])
 
 
 
