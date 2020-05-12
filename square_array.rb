@@ -7,9 +7,8 @@ numbers.each do |number|
   
 
 end
-square_array([1,2,3]))
+
 
 
 end
-
-
+square_array([1,2,3]))
