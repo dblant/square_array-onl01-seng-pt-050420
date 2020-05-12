@@ -2,8 +2,8 @@ numbers = [1,2,3]
 
 def square_array(numbers)
 
-numbers.each do |number|
-  puts "#{number**2}"
+numbers.each**2 do |number|
+  puts "#{number}"
   
 end
 
