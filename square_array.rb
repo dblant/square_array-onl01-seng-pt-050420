@@ -12,3 +12,4 @@ end
 end
 
 
+square_array(numbers)
