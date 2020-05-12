@@ -7,7 +7,7 @@ numbers.each do |number|
   
 end
 
-square_array(numbers)
+
 
 end
 
